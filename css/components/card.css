@@ -1,0 +1,76 @@
+.card {
+  display:flex;
+  justify-content: space-between;
+  background-color: white;
+  color: #1C4352;
+  font-family: 'Poppins';
+}
+
+.card h3 {
+  color: #1C4352;
+  font-family: 'Poiret One';
+  font-weight: 900;
+}
+
+.card-one {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+  height: 400px;
+  margin: 50px;
+  background-color: aliceblue;
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  border-radius: 10px;
+  color:#1C4352;
+  font-size: 30px;
+  padding: 50px;
+}
+
+.card-one-img {
+  border-radius: 50%;
+  width:200px;
+  height:200px;
+}
+
+.card-two {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+  height: 400px;
+  margin: 50px;
+  background-color: aliceblue;
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  border-radius: 10px;
+  color:#1C4352;
+  font-size: 30px;
+  padding: 50px;
+}
+
+.card-two-img {
+  border-radius: 50%;
+  width:200px;
+  height:200px;
+}
+
+.card-three {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+  height: 400px;
+  margin: 50px;
+  background-color: aliceblue;
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  border-radius: 10px;
+  color:#1C4352;
+  font-size: 30px;
+  padding: 50px;
+}
+
+.card-three-img {
+  border-radius: 50%;
+  width:200px;
+  height:200px;
+}
